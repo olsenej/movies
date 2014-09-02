@@ -1,5 +1,4 @@
 #!/usr/bin/env ruby
-#http://data.tmsapi.com/v1/movies/showings?startDate=2014-08-20&zip=78701&api_key=qt2jpk5q5m53rz7gb2wup6du
 
 
 require 'net/http'
